@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+.navbar-brand{
+    font-size: 40px;
+    font-family: 'Pushster', cursive;
+}
+.nav-link{
+    font-size: large;
+}
+
+.carousel-inner img {
+    width: 100%;
+ 
+  }
+  .about h1{
+     font-family: 'Dancing Script', cursive;
+      text-align: center;
+      padding-top: 5px;
+      margin-top: 20px;
+      font-size: 50px;
+  }
+  .about hr{
+   width: 50;
+   margin-left: 40%;
+   margin-right: 40%;
+   padding-bottom: 5px;
+  
+}
+.photo img{
+    margin: 10px;
+    height: 370px;
+    width: 100%;
+}
+.text h1{
+    text-align: center;
+      padding-top: 5px;
+      font-family: 'Dancing Script', cursive;
+}
+.text hr{
+    width: 50;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 5px;
+   
+ }
+ .text .name{
+     color:red;
+ }
+ .text p{
+     text-align: justify;
+     font-family: 'Archivo Narrow', sans-serif;
+ }
+ .btn{
+     color: white;
+ }
+ .service h1{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 20px;
+    font-size: 50px;
+}
+.service hr{
+ width: 50;
+ margin-left: 40%;
+ margin-right: 40%;
+ padding-bottom: 5px;
+
+}
+.card{
+    text-align: center;
+   
+}
+.contact{
+  margin-top: 20px;
+  color: rgb(15, 15, 15);
+  text-align: center;
+ 
+}
+.contact h3{
+   
+    color: rgb(238, 238, 238);
+   
+   
+  }
+.contact1{
+    height:200px;
+
+}
+.form{
+    width:50%;
+    margin: auto;
+}
+.footer{
+   height: 50px;
+}
+.footer p{
+    color:white;
+    padding: 10px;
+    text-align: center;
+}
+.fa{
+    color:rgb(246, 246, 246);
+    margin-top: 15px;
+    margin-left: 150px;
+}
+.fa:hover{
+    color: blue;
+    cursor: pointer;
+}
+.footer1{
+    float: left;
+    margin-top: 0px;
+   /* background-color: aqua;*/
+    margin: 5px 0;
+}
